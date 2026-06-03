@@ -109,5 +109,5 @@ A research project quantitatively comparing semantic (task-oriented) communicati
 ### 📊 GitHub Stats
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=algolia)
 
