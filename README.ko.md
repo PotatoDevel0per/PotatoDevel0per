@@ -108,7 +108,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PotatoDevel0per&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&hide_border=true" />
-</p>
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=algolia)
+<!-- GitHub Stats Card -->
+[![PotatoDevel0per's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoDevel0per)](https://github.com/anuraghazra/github-readme-stats)
+
