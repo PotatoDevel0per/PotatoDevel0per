@@ -1,8 +1,13 @@
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-2962FF?style=flat"></a>
+  <a href="./README.ko.md"><img src="https://img.shields.io/badge/한국어-555555?style=flat"></a>
+</p>
+
 <h1 align="center">Hi there, I'm Jihyuk Lee 👋</h1>
 
 <p align="center">
   <b>Speech & ML · Full-Stack Developer</b><br>
-  조선대학교 컴퓨터공학 석사 과정 · 멀티미디어컴퓨팅연구실 소속
+  M.S. Student in Computer Engineering, Chosun University · Multimedia Computing (Speech Processing) Lab
 </p>
 
 <p align="center">
@@ -15,10 +20,11 @@
 
 ### 🙋‍♂️ About
 
-- AI/ML과 풀스택 개발을 함께 다룹니다.
-- 클라우드 인프라와 빅데이터 처리에 관심이 많습니다.
-- 학생들의 진로를 돕는 커리어 코칭 서비스를 만드는 것이 목표입니다.
-- 조선대학교 컴퓨터공학 석사 과정 (M.S.) 재학 중 · 학사 졸업 `2020 - 2026`
+- I work across both AI/ML and full-stack development.
+- I research speech processing at Chosun University's Multimedia Computing (Speech Processing) Lab.
+- Interested in cloud infrastructure and big data processing.
+- My goal is to build a career-coaching service that helps students with their career paths.
+- M.S. in Computer Engineering, Chosun University · B.S. completed `2020 - 2026`
 
 ---
 
@@ -68,33 +74,33 @@
 
 ### 🚀 Projects
 
-**[CareBuddy](https://github.com/CareBuddy-Chosun) — 음성 AI 건강 길잡이** · 산학캡스톤디자인 (팀장 / PM·Backend) · [Demo](https://wantitnest.co.kr)
-말로 증상을 이야기하면 AI가 되물어 본 뒤 응급·병원 방문·가정 관찰 3단계로 안내하고, 진료과에 맞는 주변 병원까지 찾아주는 모바일 앱입니다.
+**[CareBuddy](https://github.com/CareBuddy-Chosun) — Voice AI Health Guide** · Industry-Academia Capstone (Team Lead / PM·Backend) · [Demo](https://wantitnest.co.kr)
+A mobile app where you describe symptoms by voice; the AI asks follow-up questions, then recommends one of three actions — emergency, hospital visit, or home observation — and even finds a nearby hospital matching the right department.
 
-- **AI / RAG** — 로컬 LLM + MedQuAD(약 4.7만 Q&A) 기반 RAG로 근거 있는 트리아지·참고 병명 제시
-- **음성 인터랙션** — STT/TTS 핸즈프리 상담, 필수 5개 정보를 채울 때까지 능동적으로 되묻는 대화 설계
-- **Backend / 배포** — FastAPI 서버, 대화 흐름·트리아지 로직, 토큰 기반 인증, 한·영 전환, 응급 키워드 즉시 처리
+- **AI / RAG** — Grounded triage and reference conditions via a local LLM + RAG over MedQuAD (~47K Q&A pairs)
+- **Voice Interaction** — Hands-free STT/TTS consultation, actively probing until the 5 required pieces of info are gathered
+- **Backend / Deploy** — FastAPI server, conversation flow & triage logic, token-based auth, KO/EN switching, instant emergency-keyword handling
 - **Stack** — Flutter · FastAPI · Local LLM · Vector DB · RAG
 
 **[Want IT Nest](https://github.com/chosun-nest) — Web Community**
-웹 커뮤니티 서비스의 기획부터 백엔드 개발, 클라우드 인프라 구축까지 담당했습니다.
+Led the project end-to-end: planning, backend development, and cloud infrastructure.
 
-- **기획 & 설계** — 핵심 기능 기획, DB 설계, 메인·프로필·게시판 UI/UX 프로토타이핑
-- **백엔드** — Node.js 기반 게시판 CRUD API, NginX 리버스 프록시 및 SSL/TLS 적용
-- **인프라** — AWS(VPC, EC2, 보안 그룹) 설계·배포, Bastion Host로 보안 강화
+- **Planning & Design** — Core feature planning, DB design, UI/UX prototyping for main·profile·board pages
+- **Backend** — Node.js board CRUD API, NginX reverse proxy with SSL/TLS
+- **Infrastructure** — AWS (VPC, EC2, security groups) design & deployment, hardened with a Bastion Host
 
-**[Semantic Communication vs. Raw-Bit Transmission](https://github.com/PotatoDevel0per/semcom-vs-bitcom-perf) — Task-Oriented 통신 연구** · IEEE conference format
-의미 기반(task-oriented) 통신과 기존 비트 전송을 CIFAR-10 이미지 분류 task에서 정량 비교한 연구 프로젝트입니다.
+**[Semantic Communication vs. Raw-Bit Transmission](https://github.com/PotatoDevel0per/semcom-vs-bitcom-perf) — Task-Oriented Communication Study** · IEEE conference format
+A research project quantitatively comparing semantic (task-oriented) communication against raw-bit transmission on the CIFAR-10 image-classification task.
 
-- **모델링** — ResNet-18 기반 semantic encoder + K-means 벡터 양자화 파이프라인 구현
-- **결과** — 단일 코드북 인덱스(**6 bits / 0.75 B**)로 **92.2%** 정확도 → JPEG q95 대비 **~1,700× 적은 대역폭**
-- **Robustness** — AWGN·Rayleigh fading·packet loss 채널 평가, channel-aware training으로 저SNR 정확도 최대 +3.03 pp 개선
+- **Modeling** — ResNet-18-based semantic encoder + K-means vector quantization pipeline
+- **Results** — A single codebook index (**6 bits / 0.75 B**) reaches **92.2%** accuracy → ~**1,700× less bandwidth** than JPEG q95
+- **Robustness** — Evaluated under AWGN·Rayleigh fading·packet loss; channel-aware training improves low-SNR accuracy by up to +3.03 pp
 
 ---
 
 ### 📜 Certificates
 
-- **정보처리기사** (Engineer Information Processing)
+- **Engineer Information Processing** (정보처리기사)
 - **TOPCIT** — Lv.4
 - **PCCE** — Lv.2
 
