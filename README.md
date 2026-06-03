@@ -110,4 +110,5 @@ A research project quantitatively comparing semantic (task-oriented) communicati
 
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=algolia)
-
+<!-- GitHub Stats Card -->
+[![PotatoDevel0per's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoDevel0per&show_icons=true&theme=tokyonight)](https://github.com/PotatoDevel0per/github-readme-stats)
