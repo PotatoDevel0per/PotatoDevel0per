@@ -110,7 +110,7 @@ A research project quantitatively comparing semantic (task-oriented) communicati
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PotatoDevel0per&show_icons=true&theme=default&locale=kr&hide_border=true&bg_color=ffffff)](https://github.com/PotatoDevel0per)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PotatoDevel0per&show_icons=true&theme=default&locale=kr)](https://github.com/PotatoDevel0per)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=default&locale=kr&hide_border=true&bg_color=ffffff)](https://github.com/PotatoDevel0per)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=default&locale=kr)](https://github.com/PotatoDevel0per)
 </div>
