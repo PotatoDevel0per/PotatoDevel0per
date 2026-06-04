@@ -110,8 +110,8 @@ A research project quantitatively comparing semantic (task-oriented) communicati
 
 <div align="center">
 
-[![Jihyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoDevel0per&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-two-theta-91.vercel.app/api?username=PotatoDevel0per&show_icons=true&theme=radical&locale=kr&include_all_commits=true)](https://github.com/PotatoDevel0per)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-two-theta-91.vercel.app/api/top-langs/?username=PotatoDevel0per&layout=compact&theme=radical&locale=kr)](https://github.com/PotatoDevel0per)
 
 </div>
